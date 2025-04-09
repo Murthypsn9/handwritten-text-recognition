@@ -23,16 +23,4 @@ CNN: Used for feature extraction.
 BiLSTM: Sequential modeling of the extracted features.
 Beam Search Decoder: Improves the accuracy of the predictions by considering multiple candidate sequences.
 Directory Structure
-Handwritten-Text-Recognition/
-│
-├── model/
-│   ├── handwritten_text_recognition_model.h5
-├── data/
-│   ├── train/
-│   ├── test/
-│       ├── sample_image.png  # Example test image
-├── scripts/
-│   ├── train.py
-│   ├── predict.py
-├── README.md
-├── requirements.txt
+
